@@ -1,4 +1,4 @@
-<h1 align="center">This is Inzemamul Haq aka Ishq Dehlvi</h1>
+<h1 align="center">This is Inzemamul Haq aka Ishq Dehlvi </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Blockchain%20developer;Data%20Scientist/AI%20Expert;Being%20sincere%20and%20diligent&center=true&width=380&height=45"></a>
 </p>
