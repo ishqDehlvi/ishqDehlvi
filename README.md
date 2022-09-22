@@ -33,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishqDehlvi&show_icons=true&locale=en" alt="Ishq Dehlvi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishqDehlvi&" alt="Ishq Dehlvi" /></p>
+
+<a href="https://github.com/ShivamJoker/shivamjoker/commits/master/music-badge.svg">
+<img alt="listening to badge" src="https://admirable-meerkat-464ddc.netlify.app/.netlify/functions/getimg" width="300">
+</a>
