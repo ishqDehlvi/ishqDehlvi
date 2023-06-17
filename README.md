@@ -4,6 +4,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishqDehlvi" alt="Ishq Dehlvi" /> </p>
 <img align="right" src='/hacker.gif' width=400/>
+<a href="https://aktive.tk#gh-dark-mode-only">
+  <img align="right" src="https://t.ly/pFlX"/>
+</a>
 
 ### About Me
 
