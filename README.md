@@ -6,18 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishqDehlvi" alt="Ishq Dehlvi" /> </p>
 <img align="right" src='/hacker.gif' width=400/>
 
-### About Me
-
-- 🧑‍💻 specilaized in web frontend/backend developing 
-
-- 🧑‍🔬 expertised in Blockchain Technologies(Solidity, Smart Contract, NFT marketplace...)
-
-- 🧑🔭 talented in Android/iOS app developing 
-
-- 🧑👨‍💻 excellent communication skill
-
-- 🧑🌱 experience in Web Development/Hacking/AI/Data Analysis/Web Scraping**
-
 ### Programming Tech & Tools
 | Category  | Tools |
 | ----------- | ----------- |
